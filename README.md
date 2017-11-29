@@ -1,3 +1,5 @@
+<img width="222" alt="Merry Kawaii icon" src="https://user-images.githubusercontent.com/5178445/33358482-8213a99c-d48e-11e7-815c-20a823cf1aae.png">
+
 # Merry Kawaii
 Christmas sticker pack for iMessage.
 
