@@ -1,4 +1,150 @@
 {
+  "stickers" : [
+    {
+      "filename" : "HappyGingerBreadMan.sticker"
+    },
+    {
+      "filename" : "BlankBiteGBM.sticker"
+    },
+    {
+      "filename" : "BlankGBM.sticker"
+    },
+    {
+      "filename" : "KawaiiWreath.sticker"
+    },
+    {
+      "filename" : "BlankWreath.sticker"
+    },
+    {
+      "filename" : "ChristmasTree.sticker"
+    },
+    {
+      "filename" : "HotChocolate.sticker"
+    },
+    {
+      "filename" : "reindeer.sticker"
+    },
+    {
+      "filename" : "snowman.sticker"
+    },
+    {
+      "filename" : "Stocking.sticker"
+    },
+    {
+      "filename" : "BlueBowtie.sticker"
+    },
+    {
+      "filename" : "GreenBowTie.sticker"
+    },
+    {
+      "filename" : "OrangeBowtie.sticker"
+    },
+    {
+      "filename" : "PurpleBowtie.sticker"
+    },
+    {
+      "filename" : "RedBowtie.sticker"
+    },
+    {
+      "filename" : "BlackBowtie.sticker"
+    },
+    {
+      "filename" : "YellowBowtie.sticker"
+    },
+    {
+      "filename" : "BlueHeart.sticker"
+    },
+    {
+      "filename" : "GreenHeart.sticker"
+    },
+    {
+      "filename" : "OrangeHeart.sticker"
+    },
+    {
+      "filename" : "PurpleHeart.sticker"
+    },
+    {
+      "filename" : "RedHeart.sticker"
+    },
+    {
+      "filename" : "YellowHeart.sticker"
+    },
+    {
+      "filename" : "GreenChristmasLight.sticker"
+    },
+    {
+      "filename" : "BlueChristmasLight.sticker"
+    },
+    {
+      "filename" : "PurpleChristmasLight.sticker"
+    },
+    {
+      "filename" : "RedChristmasLight.sticker"
+    },
+    {
+      "filename" : "YellowChristmasLight.sticker"
+    },
+    {
+      "filename" : "HoHoHoRed.sticker"
+    },
+    {
+      "filename" : "HoHoHoGreen.sticker"
+    },
+    {
+      "filename" : "LashCute.sticker"
+    },
+    {
+      "filename" : "LashEyes.sticker"
+    },
+    {
+      "filename" : "LashHappy.sticker"
+    },
+    {
+      "filename" : "eyescrying.sticker"
+    },
+    {
+      "filename" : "eyeswink.sticker"
+    },
+    {
+      "filename" : "LashMouthOpen.sticker"
+    },
+    {
+      "filename" : "LashWiggle.sticker"
+    },
+    {
+      "filename" : "LashZigZag.sticker"
+    },
+    {
+      "filename" : "NoLashCute.sticker"
+    },
+    {
+      "filename" : "nolashhappy.sticker"
+    },
+    {
+      "filename" : "NoLashMouthOpen.sticker"
+    },
+    {
+      "filename" : "NoLashSad.sticker"
+    },
+    {
+      "filename" : "NoLashSurprised.sticker"
+    },
+    {
+      "filename" : "Mouthcute.sticker"
+    },
+    {
+      "filename" : "mouthopen.sticker"
+    },
+    {
+      "filename" : "mouthsad.sticker"
+    },
+    {
+      "filename" : "mouthwiggle.sticker"
+    },
+    {
+      "filename" : "wiggle.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"

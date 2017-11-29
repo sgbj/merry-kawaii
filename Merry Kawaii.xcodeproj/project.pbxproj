@@ -271,7 +271,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 7787G9X896;
 				INFOPLIST_FILE = "Merry Kawaii StickerPackExtension/Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "io.batary.Merry-Kawaii.StickerPackExtension";
+				PRODUCT_BUNDLE_IDENTIFIER = "io.batary.Batary-Merry-Kawaii.StickerPackExtension";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -285,7 +285,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 7787G9X896;
 				INFOPLIST_FILE = "Merry Kawaii StickerPackExtension/Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "io.batary.Merry-Kawaii.StickerPackExtension";
+				PRODUCT_BUNDLE_IDENTIFIER = "io.batary.Batary-Merry-Kawaii.StickerPackExtension";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -299,7 +299,8 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 7787G9X896;
 				INFOPLIST_FILE = "Merry Kawaii/Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "io.batary.Merry-Kawaii";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "io.batary.Batary-Merry-Kawaii";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -312,7 +313,8 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 7787G9X896;
 				INFOPLIST_FILE = "Merry Kawaii/Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "io.batary.Merry-Kawaii";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "io.batary.Batary-Merry-Kawaii";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
